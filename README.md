@@ -1,6 +1,8 @@
+Hi!! I'm Carla and I'm learning CS5O, Python and R Language! I'm interested in Data Science.
+
 <div align="center">
   <a href="https://github.com/carlaleticia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlaleticia&show_icons=true&theme=modern&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlaleticia&show_icons=true&theme=modern&include_all_commits=true&count_private=true">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlaleticia&layout=compact&langs_count=7&theme=modern"/>
 </div>
 <div style="display: inline_block"><br>
