@@ -1,5 +1,4 @@
-Hi, welcome!
-I'm Carla and I'm learning CS5O, Python and R Language! I'm interested in Data Science.
+Welcome!!! I'm Carla and I'm learning CS50, Python and R Language.
 
 <div align="center">
   <a href="https://github.com/carlaleticia">
