@@ -6,7 +6,8 @@ I'm Carla and I'm learning CS5O, Python and R Language! I'm interested in Data S
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlaleticia&show_icons=true&theme=modern&include_all_commits=true&count_private=true">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlaleticia&layout=compact&langs_count=7&theme=modern"/>
 </div>
-<div style="display: inline_block"><br>
+<div align="center">
+  <div style="display: inline_block"><br>
   <img align="center" alt="Carla-R" height="40" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
    <img align="center" alt="Carla-Python" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Carla-Java" height="30" width="40" img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg>
