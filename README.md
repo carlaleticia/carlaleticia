@@ -3,7 +3,7 @@ I'm Carla and I'm learning CS5O, Python and R Language! I'm interested in Data S
 
 <div align="center">
   <a href="https://github.com/carlaleticia">
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=carlaleticia&theme=dracula&include_all_commits=true&count_private=true">
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=carlaleticia&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlaleticia&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div align="center">
