@@ -3,7 +3,7 @@ Welcome!!! I'm Carla and I'm learning CS50, Python and R Language.
 <div align="center">
   <a href="https://github.com/carlaleticia">
 <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=carlaleticia&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlaleticia&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlaleticia&theme=dracula"/>
 </div>
 <div align="center">
 <div style="display: inline_block"><br>
