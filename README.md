@@ -1,4 +1,4 @@
-Welcome!!! I'm Carla and I'm learning CS50, Python and R Language.
+Welcome!!! I'm Carla and I make responsive applications with Bootstrap and interactive UI's with React.
 
 <div align="center">
   <a href="https://github.com/carlaleticia">
