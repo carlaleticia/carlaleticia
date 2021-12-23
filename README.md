@@ -1,4 +1,4 @@
-Welcome!!! I'm Carla and I make responsive applications with Bootstrap and interactive UI's with React.
+Welcome!!! I'm Carla and I make responsive applications with HTML, CSS and Javascript.
 
 <div align="center">
   <a href="https://github.com/carlaleticia">
