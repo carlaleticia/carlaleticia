@@ -1,4 +1,4 @@
-Welcome!!! I'm Carla and I make responsive applications with HTML, CSS and Javascript.
+Welcome!!! I'm Carla and I make responsive applications with HTML, CSS and JavaScript.
 
 <div align="center">
   <a href="https://github.com/carlaleticia">
