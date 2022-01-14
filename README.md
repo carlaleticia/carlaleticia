@@ -15,10 +15,10 @@ Welcome!!! I'm Carla and I make responsive applications with HTML, CSS and Javas
 </div>
 <div style="display: inline_block"><br>
 <div/>
-  <a href="https://www.instagram.com/carlets94/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/carlets.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@carlets#9550" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/carlaleticia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=" target="_blank"></a> 
-  <a href = "mailto:carlaleticia.gf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=" target="_blank"></a>
+  <a href = "dev.calmeida@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=" target="_blank"></a>
 
 </div>
 
