@@ -7,7 +7,7 @@ Welcome!!! I'm Carla and I make responsive applications with HTML, CSS and JavaS
 </div>
 <div align="center">
 <div style="display: inline_block"><br>
-  <img align="center" alt="Carla-REACT" height="30" width="50" img src="https://img.shields.io/badge/REACT-276DC3?style=for-the-badge&logo=react&logoColor=white">
+  <img align="center" alt="Carla-REACT" height="30" width="110" img src="https://img.shields.io/badge/REACT-276DC3?style=for-the-badge&logo=react&logoColor=white">
   <img align="center" alt="Carla-Python" height="30" width="110" <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
   <img align="center" alt="Carla-JavaScript" height="30" width="130" img src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E>
   <img align="center" alt="Carla-HTML" height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
