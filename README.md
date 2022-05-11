@@ -1,4 +1,14 @@
-Welcome!!! I'm Carla and I make responsive applications with HTML, CSS and JavaScript.
+Welcome!!! 
+
+I'm Carla and I’m a Frontend Developer in the journey to master HTML / CSS / Bootstrap / JavaScript / GitHub / Figma / React :rocket: :rocket:
+
+I'm a fast learner passionate about technology! :heart:
+
+:pushpin: Advanced knowledge in Microsoft Excel, Presentation Skills and Basic Data Visualization with Power BI & Tableau :chart_with_upwards_trend:
+
+:pushpin: Experience with Administrative department, Purchasing & Costumer Service :briefcase:
+
+Let's work together!? :sunglasses:
 
 <div align="center">
   <a href="https://github.com/carlaleticia">
