@@ -7,19 +7,29 @@ Welcome!!! I'm Carla and I make responsive applications with HTML, CSS and JavaS
 </div>
 <div align="center">
 <div style="display: inline_block"><br>
-  <img align="center" alt="Carla-React" height="30" width="90" img src="https://img.shields.io/badge/REACT-276DC3?style=for-the-badge&logo=react&logoColor=white">
-  <img align="center" alt="Carla-Python" height="30" width="110" <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
-  <img align="center" alt="Carla-JavaScript" height="30" width="130" img src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E>
-  <img align="center" alt="Carla-HTML" height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Carla-PowerBI" height="30" width="120" img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/
-</div>
+  
+  <img align="center" alt="Carla-HTML" height="30" width="100" src="https://img.shields.io/badge/HTML5-ed1c24?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Carla-CSS" height="30" width="90" <img src="https://img.shields.io/badge/CSS-563D7C?&style=for-the-badge&logo=css3&logoColor=">
+  <img align="center" alt="Carla-Python" height="30" width="110" <img src="https://img.shields.io/badge/Python-004e89?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Carla-JavaScript" height="30" width="130" img src=https://img.shields.io/badge/JavaScript-F2C811?style=for-the-badge&logo=javascript&logoColor=black>
+  
+  </div>
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Carla-React" height="30" width="90" img src="https://img.shields.io/badge/REACT-276DC3?style=for-the-badge&logo=react&logoColor=white">
+  <img align="center" alt="Bootstrap" height="30" width="120" img src="https://img.shields.io/badge/Bootstrap-bc00dd?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" alt="Angular" height="30" width="100" img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img align="center" alt="Carla-NodeJs" height="30" width="100" img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    <img align="center" alt="Figma" height="30" width="100" img src="https://img.shields.io/badge/Figma-FF3366?style=for-the-badge&logo=figma&logoColor=white">
+    <img align="center" alt="Carla-PowerBI" height="30" width="120" img src="https://img.shields.io/badge/PowerBI-2d00f7?style=for-the-badge&logo=Power%20BI&logoColor=white">
+  
+  
+
 <div style="display: inline_block"><br>
 <div/>
-  <a href="https://www.instagram.com/carlets.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/@carlets#9550" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/carlaleticia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=" target="_blank"></a> 
-  <a href = "dev.calmeida@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=" target="_blank"></a>
-
+  <a href="https://www.linkedin.com/in/carlaleticia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "dev.calmeida@gmail.com"><img src="https://img.shields.io/badge/-Gmail-127475?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/channels/@carlets#9550" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/carlets.94/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-f20089?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 <!---
