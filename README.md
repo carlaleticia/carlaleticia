@@ -8,7 +8,7 @@ I'm a fast learner passionate about technology! :heart:
 
 :pushpin: Experience with Administrative department, Purchasing & Costumer Service :briefcase:
 
-<div align="center">
+<div align="center"><br>
   <a href="https://github.com/carlaleticia">
 <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=carlaleticia&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlaleticia&theme=dracula"/>
