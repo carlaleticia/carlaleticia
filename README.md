@@ -1,4 +1,4 @@
-Welcome!!! 
+<div align="center"> <h1> Welcome!!! </h1></div>
 
 I'm Carla and I’m a Frontend Developer in the journey to master HTML / CSS / Bootstrap / JavaScript / GitHub / Figma / React :rocket: :rocket:
 
@@ -7,8 +7,6 @@ I'm a fast learner passionate about technology! :heart:
 :pushpin: Advanced knowledge in Microsoft Excel, Presentation Skills and Basic Data Visualization with Power BI & Tableau :chart_with_upwards_trend:
 
 :pushpin: Experience with Administrative department, Purchasing & Costumer Service :briefcase:
-
-Let's work together!? :sunglasses:
 
 <div align="center">
   <a href="https://github.com/carlaleticia">
@@ -32,9 +30,11 @@ Let's work together!? :sunglasses:
     <img align="center" alt="Figma" height="30" width="100" img src="https://img.shields.io/badge/Figma-FF3366?style=for-the-badge&logo=figma&logoColor=white">
     <img align="center" alt="Carla-PowerBI" height="30" width="120" img src="https://img.shields.io/badge/PowerBI-2d00f7?style=for-the-badge&logo=Power%20BI&logoColor=white">
   
-  
+  <br>
+    <br>
 
-<div style="display: inline_block"><br>
+<div align="center"> <h1> Let's work together!? :sunglasses: </h1> </div>
+    <div style="display: inline_block">
 <div/>
   <a href="https://www.linkedin.com/in/carlaleticia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "dev.calmeida@gmail.com"><img src="https://img.shields.io/badge/-Gmail-127475?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
