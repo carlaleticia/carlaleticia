@@ -1,18 +1,23 @@
-<div align="center"> <h1> Welcome!!! </h1></div>
+<div align="center"> <h1> Welcome!!! </h1> </div>
 
-I'm Carla and I’m a Frontend Developer in the journey to master HTML / CSS / Bootstrap / JavaScript / GitHub / Figma / React :rocket: :rocket:
 
-I'm a fast learner passionate about technology! :heart:
+I'm Carla and I’m a **Frontend Developer** in the journey to master HTML / CSS / Bootstrap / JavaScript / GitHub / Figma / React :rocket: :rocket: 
 
-:pushpin: Advanced knowledge in Microsoft Excel, Presentation Skills and Basic Data Visualization with Power BI & Tableau :chart_with_upwards_trend:
+I'm a fast learner passionate about technology! :heart: 
+ 
+  :pushpin: Advanced knowledge in Microsoft Excel, Presentation Skills and Basic Data Visualization with Power BI & Tableau :chart_with_upwards_trend: <br>
+  
+  :pushpin: Experience with Administrative department, Purchasing & Customer Service :briefcase:
 
-:pushpin: Experience with Administrative department, Purchasing & Customer Service :briefcase:
 
-<div align="center"><br>
+<div align="center" style="display: flex; justify-content: space-between;">
+      
   <a href="https://github.com/carlaleticia">
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=carlaleticia&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlaleticia&theme=dracula"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlaleticia&theme=dracula"/></a>
+    <img height="200em" style="justify-content: space-evenly" src="https://drive.google.com/uc?export=view&id=1HJWEoSAQUe61Y1rdGhYyFI9ZwB3B1LyM"/>
 </div>
+  <br>
+
 <div align="center">
 <div style="display: inline_block"><br>
   
