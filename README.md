@@ -9,9 +9,9 @@ I'm a fast learner passionate about technology! :heart:
   
   :pushpin: Experience with Administrative department, Purchasing & Customer Service :briefcase:
 
-
 <div align="center" style="display: flex; justify-content: space-between;">
-      
+     <br>
+    
   <a href="https://github.com/carlaleticia">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlaleticia&theme=dracula"/></a>
     <img height="200em" style="justify-content: space-evenly" src="https://drive.google.com/uc?export=view&id=1HJWEoSAQUe61Y1rdGhYyFI9ZwB3B1LyM"/>
