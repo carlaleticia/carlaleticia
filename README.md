@@ -13,8 +13,8 @@ I'm a fast learner passionate about technology! :heart:
      <br>
     
   <a href="https://github.com/carlaleticia">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlaleticia&theme=dracula"/></a>
-    <img height="200em" style="justify-content: space-evenly" src="https://drive.google.com/uc?export=view&id=1HJWEoSAQUe61Y1rdGhYyFI9ZwB3B1LyM"/>
+    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlaleticia&theme=dracula"/></a>
+    <img height="250em" style="justify-content: space-evenly" src="https://drive.google.com/uc?export=view&id=12MEtLO5urynvxXwc1vpomNwJE1Lj15i4"/>
 </div>
   <br>
 
