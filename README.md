@@ -1,13 +1,15 @@
 <div align="center"> <h1> Welcome!!! </h1> </div>
 
 
-I'm Carla and I’m a **Frontend Developer** in the journey to master HTML / CSS / Bootstrap / JavaScript / GitHub / Figma / React :rocket: :rocket: 
+I'm Carla and I'm on the journey to master JavaScript & React and get my first professional experience as a developer :rocket: :rocket: 
 
 I'm a fast learner passionate about technology! :heart: 
  
-  :pushpin: Advanced knowledge in Microsoft Excel, Presentation Skills and Basic Data Visualization with Power BI & Tableau :chart_with_upwards_trend: <br>
+✅ I have intermediate knowledge of HTML, CSS, Bootstrap and JavaScript 👩🏻‍💻 <br>
+✅ I like photo and video editing, I 'get by' with PhotoShop, Canva, Paint, Figma and Spline 🎬 <br>
+✅ Advanced knowledge in MS Excel, Dashboards and Basic Data Visualization with Python and Power BI :chart_with_upwards_trend: <br>
+✅ Experience with Administrative department, Purchasing & Customer Service :briefcase: <br>
   
-  :pushpin: Experience with Administrative department, Purchasing & Customer Service :briefcase:
 
 <div align="center" style="display: flex; justify-content: space-between;">
      <br>
