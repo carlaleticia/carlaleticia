@@ -6,7 +6,6 @@ I'm Carla and I'm on the journey to master JavaScript & React and get my first p
 I'm a fast learner passionate about technology! :heart: 
  
 ✅ I have intermediate knowledge of HTML, CSS, Bootstrap and JavaScript 👩🏻‍💻 <br>
-✅ I like photo and video editing, I 'get by' with PhotoShop, Canva, Paint, Figma and Spline 🎬 <br>
 ✅ Advanced knowledge in MS Excel, Dashboards and Basic Data Visualization with Python and Power BI :chart_with_upwards_trend: <br>
 ✅ Experience with Administrative department, Purchasing & Customer Service :briefcase: <br>
   
